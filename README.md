@@ -6,3 +6,7 @@ Applied Data Analysis course with Tony - Spring 2019
 Adding new text on 2019-01-31 from RStudio
 
 Making more changes on 2019-01-31 from Github (not from RStudio)
+
+Even more changes after creating an R Project on RStudio.
+
+**more...**
