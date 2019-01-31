@@ -10,3 +10,5 @@ Making more changes on 2019-01-31 from Github (not from RStudio)
 Even more changes after creating an R Project on RStudio.
 
 **more and more changes**
+
+*now making changes remotely to be pulled in RStudio*
